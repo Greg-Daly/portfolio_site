@@ -1,0 +1,16 @@
+
+.header {
+  display: block;
+}
+ul#menu li {
+    display: inline;
+    margin: 0 auto;
+}
+
+ul #menu li:hover {
+  color: darkgray;
+}
+
+img {
+margin: 0 auto;
+}
